@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-  <h2>테스트~~sibal24rf</h2>
+  <h2>노트북심하네 </h2>
 </body>
 </html>
