@@ -7,11 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
- 
-   <ul>
-     	<li><a href="/semiinven/user/login.jsp">로그인</a></li>
-		<li><a href="/semiinven/user/nomalJoin.jsp">회원 가입</a></li>
-   </ul>
-
+ <section>
+  <article>
+         
+   </article>
+ </section>
 </body>
 </html>
